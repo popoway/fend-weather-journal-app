@@ -1,10 +1,16 @@
 # Weather-Journal App Project
+![Screenshot of the weather journel app](https://github.com/popoway/fend-weather-journal-app/blob/master/screenshot.png)
 
-## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+## Description
+Powered by Node.js and Express, this is a project for the [Udacity Front End Web Developer Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd0011/). It allows the user to keep journal by entering zipcode and journel content. The app will then fetch weather information via OpenWeatherMap API and then stored in its  Finally, it 
 
-## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+## Prerequisite
+Node.js environment must be set up on your local machine.
 
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+## Installation
+1. To run the app, open a terminal window, locate to the project folder, and run `node server.js`.
+2. Go to `localhost:3000` in your browser.
+
+## Runtime Environment
+- Node.js
+- Express
